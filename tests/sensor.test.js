@@ -1,3 +1,5 @@
 function temperatura(){
-    return 14
+    return 9999
 }
+
+console.log('kiasncsbnfuijo');
